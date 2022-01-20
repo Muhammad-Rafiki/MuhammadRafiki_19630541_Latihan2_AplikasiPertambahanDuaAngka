@@ -1,0 +1,8 @@
+GUI.PertambahanAplikasiDuaAngka$5
+GUI.PertambahanAplikasiDuaAngka$4
+GUI.PertambahanAplikasiDuaAngka$7
+GUI.PertambahanAplikasiDuaAngka$6
+GUI.PertambahanAplikasiDuaAngka
+GUI.PertambahanAplikasiDuaAngka$1
+GUI.PertambahanAplikasiDuaAngka$3
+GUI.PertambahanAplikasiDuaAngka$2
